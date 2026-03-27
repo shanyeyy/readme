@@ -15,5 +15,5 @@ cr: giyupaw
 
 # dni                        int                                     byf
 
-dni in carrd   //           looey/ jingyuan fans!!      //              i make weird jokes ok
-no weirdos pls  //          if u have the same interests   //
+dni: dni in carrd   //           int: looey/ jingyuan fans!!      //             byf: i make weird jokes ok
+dni: no weirdos pls  //         int: if u have the same interests   //
