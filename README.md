@@ -17,3 +17,6 @@ cr: giyupaw
 
 dni: dni in carrd   //           int: looey/ jingyuan fans!!      //             byf: i make weird jokes ok
 dni: no weirdos pls  //         int: if u have the same interests   //
+
+
+made with the help of @artexyc !
