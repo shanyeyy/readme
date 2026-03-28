@@ -5,7 +5,7 @@
 <img width="100" height="100" alt="tumblr_2b44b08b74bc9e41946ab0c4971444f5_03c7eb6f_100" src="https://github.com/user-attachments/assets/51de3c5e-9531-4a81-973c-b21b0e075489" />
 <img width="100" height="100" alt="tumblr_76f825d59453d75c8f8d287791e8da8f_8ca65713_100" src="https://github.com/user-attachments/assets/baacc76a-34fb-47df-b996-f9cc4854fadd" />
 
-**14** ! C+H is okay!
+**14** ! C+H is okay, feel free to come up and plant urself right next to me!
 credits: giyupaw
 
 
@@ -15,8 +15,7 @@ cr: giyupaw
 
 # dni                        int                                     byf
 
-dni: dni in carrd   //           int: looey/ jingyuan fans!!      //             byf: i make weird jokes ok
-dni: no weirdos pls  //         int: if u have the same interests   //
+dni: basic dni criteria, just dont be a weirdo  //           int: jy fans!!, others who have the same interests as me, any age is ok just pls be mature //             byf: i tend to make weird and problematic jokes so lmk if you arent comfortable with them
 
 
-made with the help of @artexyc !
+tysm @artexyc for helping me wit dis ily /plat （╹◡╹）♡
